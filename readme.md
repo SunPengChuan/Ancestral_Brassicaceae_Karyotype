@@ -6,4 +6,4 @@ Tracing the dynamic evolution of ancestral chromosomes, we reconstructed ancestr
 
 The relationships among these ancestral karyotypes are illustrated in the figure below.
 
-![]()![Figure](D:\git\Ancestral_Brassicaceae_Karyotype\ancestors\Figure.png)
+<img src="ancestors/Figure.png" style="zoom: 25%;" />

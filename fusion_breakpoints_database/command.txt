@@ -1,0 +1,1 @@
+ls *.conf | xargs -I {} wgdi -fpd {}

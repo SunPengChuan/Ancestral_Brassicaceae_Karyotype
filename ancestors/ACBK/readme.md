@@ -1,1 +1,0 @@
-ACBK.new selects the ancestral karyotype constructed from chromosomes with a higher number of homologous chromosomal genes. The chromosomal structure of ACBK.new is basically the same as that of ACBK, and the statistics in our manuscript are based on ACBK.new as a reference.
